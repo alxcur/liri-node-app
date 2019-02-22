@@ -10,4 +10,4 @@
 ```
 'node liri.js concert-this <enter in specific band/artist>'
 ```
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/YVKP752)]()
