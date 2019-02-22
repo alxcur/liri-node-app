@@ -6,5 +6,8 @@
 * Main NPM packages in-use: `axios` `moment` `donenv` `fs` + more
 * APIs: Bands in Town, Spotify, OMDB APIs
 
-### To retrieve a listing of upcoming concerts from a specific band/artist enter:
+#### To retrieve a listing of upcoming concerts from a specific band/artist enter:
+```
 'node liri.js concert-this <enter in specific band/artist>'
+```
+[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
