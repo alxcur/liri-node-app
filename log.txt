@@ -68,3 +68,57 @@ Song: I Want It That Way
 URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=08818abfbac2497ba9eeb67fd44e332c
 Album: The Hits--Chapter One
 ] -***********************- [
+
+] Hi, I am LIRI. [
+concert-this :: pixies
+Venue: KFC Yum! Center
+Location: Louisville
+Date: 03/08/2019
+] -***********************- [
+
+] Hi, I am LIRI. [
+concert-this :: undefined
+No concerts near you.
+] -***********************- [
+
+] Hi, I am LIRI. [
+concert-this :: pixies
+Venue: KFC Yum! Center
+Location: Louisville
+Date: 03/08/2019
+] -***********************- [
+
+] Hi, I am LIRI. [
+concert-this :: john
+Venue: Bethany Wesleyan Church
+Location: Cherryville
+Date: 03/09/2019
+] -***********************- [
+
+] Hi, I am LIRI. [
+concert-this :: pixies
+Venue: KFC Yum! Center
+Location: Louisville
+Date: 03/08/2019
+] -***********************- [
+undefinedundefined
+] Hi, I am LIRI. [
+do-what-it-says :: Backstreet Boys
+Song: I Want It That Way
+URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=08818abfbac2497ba9eeb67fd44e332c
+Album: The Hits--Chapter One
+] -***********************- [
+
+] Hi, I am LIRI. [
+concert-this :: pixies
+Venue: KFC Yum! Center
+Location: Louisville
+Date: 03/08/2019
+] -***********************- [
+undefinedundefined
+] Hi, I am LIRI. [
+do-what-it-says :: Backstreet Boys
+Song: I Want It That Way
+URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=08818abfbac2497ba9eeb67fd44e332c
+Album: The Hits--Chapter One
+] -***********************- [
