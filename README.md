@@ -6,8 +6,36 @@
 * Main NPM packages in-use: `axios` `moment` `donenv` `fs` + more
 * APIs: Bands in Town, Spotify, OMDB APIs
 
+--
+
 #### To retrieve a listing of upcoming concerts from a specific band/artist enter:
 ```
-'node liri.js concert-this <enter in specific band/artist>'
+node liri.js concert-this <enter in specific band/artist>
 ```
 ![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/concert-this.jpg)
+
+--
+
+#### To retrieve song info Spotify enter:
+```
+node liri.js spotify-this-song <enter song>
+```
+![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/concert-this.jpg)
+
+--
+
+#### To retrieve movie information from a film enter:
+```
+node liri.js movie-this <enter movie name>
+```
+![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/concert-this.jpg)
+
+--
+
+#### Enter and see what it does:
+```
+node liri.js do-what-it-says
+```
+![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/concert-this.jpg)
+
+
