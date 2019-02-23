@@ -10,4 +10,4 @@
 ```
 'node liri.js concert-this <enter in specific band/artist>'
 ```
-![Alt Text](https://media.giphy.com/media/9xpmBX9P9xYiCYo3hr/giphy.gif)
+![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/concert-this.jpg)
