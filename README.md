@@ -38,4 +38,6 @@ node liri.js do-what-it-says
 ```
 ![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/do-what-it-says.jpg)
 
+________
 
+![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/ezgif-4-139f84ba19e1.gif)
