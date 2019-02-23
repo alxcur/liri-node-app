@@ -28,7 +28,7 @@ node liri.js spotify-this-song <enter song>
 ```
 node liri.js movie-this <enter movie name>
 ```
-![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/concert-this.jpg)
+![Alt Text](https://raw.githubusercontent.com/alxcur/liri-node-app/master/imgs/movie-this.jpg)
 
 --
 
