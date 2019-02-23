@@ -222,7 +222,6 @@ switch (command) {
 
     break;
   default:
-
     console.log("No Results.");
 }
 // end switch
